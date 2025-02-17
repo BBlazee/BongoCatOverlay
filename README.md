@@ -2,7 +2,7 @@
 
 Welcome to the repository for two fun, interactive, always-on-top overlay programs that bring the iconic Bongo Cat to life on your desktop!
 
-- **Bongo Typing Ultra:**  
+- **Bongo Typing:**  
   Animate Bongo Cat with every keystroke while you type away. Perfect for adding some musical flair to your typing sessions.
   
 - **Bongo MAX:**  
