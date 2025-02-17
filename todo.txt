@@ -1,0 +1,22 @@
+Merge Typing/Max
+
+expand input normalization 
+
+disallow entering same input multiple times during config
+
+on-the-fly light/dark/etc mode switching
+
+switching between typing/MAX mode
+
+reimplement 3-button table tapping version
+
+look into transparent image solutions for multikey support and dynamic background color swapping
+
+clean up the png's while you're at it
+
+other wacky characters??
+
+new instruments??
+
+sound?
+
