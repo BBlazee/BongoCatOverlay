@@ -53,12 +53,12 @@ KEY_SEGMENTS = {
     "Segment 7": " "  # Spacebar
 }
 KEY_MAPPINGS = {
-    "Segment 1": 2,
-    "Segment 2": 3,
-    "Segment 3": 4,
-    "Segment 4": 5,
-    "Segment 5": 6,
-    "Segment 6": 7,
+    "Segment 1": 1,
+    "Segment 2": 2,
+    "Segment 3": 3,
+    "Segment 4": 4,
+    "Segment 5": 5,
+    "Segment 6": 6,
     "Segment 7": 10
 }
 
@@ -87,7 +87,7 @@ def get_segment(key):
 # Load raw images (assumed to be 640x320 originally).
 raw_images = {i: pygame.image.load(f"{i}.png") for i in range(1, 11)}
 # Scale the raw images to the initial window size.
-images = {i: pygame.transform.scale(raw_images[i], (window_width, window_height))
+images = {i: pygame.transform.scale(raw_images[i],1 (window_width, window_height))
           for i in raw_images}
 current_image = images[1]
 
@@ -101,7 +101,7 @@ def update_image():
     if segments:
         current_image = images[KEY_MAPPINGS[segments[-1]]]
     else:
-        current_image = images[1]
+        current_image = images[9]
 
 # ---------------------------
 # FUNCTION TO RESIZE THE OVERLAY WHILE MAINTAINING ASPECT RATIO

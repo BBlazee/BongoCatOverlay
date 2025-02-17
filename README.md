@@ -27,3 +27,4 @@ Welcome to the repository for two fun, interactive, always-on-top overlay progra
     - **Key Configuration:** Follow on-screen prompts on first run (or regenerate with Y/N).
 
 - **Always-on-Top:** Both overlays stay above other windows, so your Bongo Cat is always there to motivate you!
+**Classic and Dark Mode!:** 
