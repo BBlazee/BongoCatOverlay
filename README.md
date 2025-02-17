@@ -8,7 +8,7 @@ Welcome to the repository for two fun, interactive, always-on-top overlay progra
 - **Bongo MAX:**  
   Become the bongoest of them all! With customizable key mapping, dynamic scale-aware window positioning and sizing, Bongo MAX gives you an even more tactile experience.
 
-                              ![it bongo!!](https://raw.githubusercontent.com/BBlazee/BongoCatOverlay/refs/heads/main/14.gif)
+    ![it bongo!!](https://raw.githubusercontent.com/BBlazee/BongoCatOverlay/refs/heads/main/14.gif)
 
 
 ---
