@@ -2,6 +2,10 @@ Merge Typing/Max
 
 expand input normalization 
 
+sleep mode
+
+GIFs?
+
 disallow entering same input multiple times during config
 
 on-the-fly light/dark/etc mode switching
