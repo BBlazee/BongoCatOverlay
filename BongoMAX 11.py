@@ -188,7 +188,7 @@ def configure_keys():
     text_surface = font.render(instructions, True, (255, 255, 255))
     screen.blit(text_surface, (10, 10))
     pygame.display.flip()
-    time.sleep(1)
+    time.sleep(3)
     
     # List of prompts and corresponding image numbers.
     config_prompts = [
@@ -331,3 +331,4 @@ while running:
             running = False
 
 pygame.quit()
+sys.exit()

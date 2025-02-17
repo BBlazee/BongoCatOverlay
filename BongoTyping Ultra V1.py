@@ -87,9 +87,9 @@ def get_segment(key):
 # Load raw images (assumed to be 640x320 originally).
 raw_images = {i: pygame.image.load(f"{i}.png") for i in range(1, 11)}
 # Scale the raw images to the initial window size.
-images = {i: pygame.transform.scale(raw_images[i],1 (window_width, window_height))
+images = {i: pygame.transform.scale(raw_images[i], (window_width, window_height))
           for i in raw_images}
-current_image = images[1]
+current_image = images[9]
 
 # ---------------------------
 # UPDATE DISPLAYED IMAGE
@@ -193,3 +193,4 @@ while running:
     pygame.display.flip()
 
 pygame.quit()
+sys.exit()
