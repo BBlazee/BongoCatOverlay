@@ -6,7 +6,7 @@ Welcome to the repository for two fun, interactive, always-on-top overlay progra
   Animate Bongo Cat with every keystroke while you type away. Perfect for adding some musical flair to your typing sessions.
   
 - **Bongo MAX:**  
-  Become the bongoest of them all! With customizable key mapping, dynamic window placement on top of your gear skin, and scale-aware positioning, Bongo MAX gives you an even more tactile experience.
+  Become the bongoest of them all! With customizable key mapping, dynamic scale-aware window positioning and sizing, Bongo MAX gives you an even more tactile experience.
 
 ---
 
