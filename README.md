@@ -18,7 +18,7 @@ Welcome to the repository for two fun, interactive, always-on-top overlay progra
 - **Animated Overlays:** Every keystroke triggers a lively Bongo Cat animation.
 - **Custom Key Mapping (Bongo MAX):** Configure your note keys on first run (mapping saved in `key_mapping.txt`).
 - **Window Controls:**
-  - *Bongo Typing Ultra:*
+  - *Bongo Typing:*
     - **Move the Overlay:** Use the **arrow keys**.
     - **Lock/Unlock Window:** Press **F9**.
     - **Resize the Overlay:**  
