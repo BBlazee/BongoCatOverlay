@@ -5,7 +5,7 @@ Welcome to the repository for two fun, interactive, always-on-top overlay progra
 - **Bongo Typing:**  
   Animate Bongo Cat with every keystroke while you type away. Perfect for adding some musical flair to your typing sessions.
   
-- **Bongo MAX:**  
+- **Bongo MAX (Rhythm Game Version):**  
   Become the bongoest of them all! With customizable key mapping, dynamic scale-aware window positioning and sizing, Bongo MAX gives you an even more tactile experience.
 
     ![it bongo!!](https://raw.githubusercontent.com/BBlazee/BongoCatOverlay/refs/heads/main/14.gif)
