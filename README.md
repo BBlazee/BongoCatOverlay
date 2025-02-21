@@ -25,7 +25,7 @@ Welcome to the repository for two fun, interactive, always-on-top overlay progra
       **F8:** Increase size by 10%  
       **F7:** Decrease size by 10%
   - *Bongo Rhythm:*
-    - **Move the Overlay:** Use **Custom Keys on Startup**.
+    - **Move the Overlay:** Use **Custom Keys**.
     - **Lock/Unlock Window:** Press **F9**.
     - **Key Configuration:** Follow on-screen prompts on first run (or regenerate with Y/N).
 
